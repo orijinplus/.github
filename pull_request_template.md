@@ -1,4 +1,4 @@
-Addresses Github issue #
+Closes #
 
 ## Description of change
 
